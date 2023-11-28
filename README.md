@@ -1,2 +1,4 @@
 # python-tic-tac-toe
-A tic-tac-toe game built with python. It is been played on the terminal
+Du kan spela det jätte roliga spelet tre i rad i din terminal via denna kod! 
+Allt du behöver göra är att starta via GitBash! 
+Lycka till!
