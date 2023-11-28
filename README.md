@@ -1,4 +1,8 @@
-# python-tic-tac-toe
-Du kan spela det jätte roliga spelet tre i rad i din terminal via denna kod! 
-Allt du behöver göra är att starta via GitBash! 
-Lycka till!
+# Python Tre i Rad
+
+Med denna kod kan du spela tre i rad mot datorn
+Allt du behöver göra är att starta koden i din terminal och följ instruktionerna
+
+## Ägare
+
+Detta är inte min egna kod, jag har gjort en översättning samt lagt till något nytt 
