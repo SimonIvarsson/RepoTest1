@@ -35,6 +35,8 @@ def Vinnare(b,l):
     (b[1] == l and b[5] == l and b[9] == l) or
     (b[3] == l and b[5] == l and b[7] == l))
 
+
+# Denna funktion ger spelaren instruktioner 
 def DragAvSpelare():
     run = True
     while run:

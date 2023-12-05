@@ -5,4 +5,4 @@ Allt du behöver göra är att starta koden i din terminal och följ instruktion
 
 ## Ägare
 
-Detta är inte min egna kod, jag har gjort en översättning samt lagt till något nytt 
+Detta är inte min egna kod, jag har gjort en översättning till svenska
